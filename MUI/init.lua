@@ -2,7 +2,7 @@
 local MUI = {}
 
 MUI._NAME = "Mister UI"
-MUI._VERSION = "0.1.0"
+MUI._VERSION = "0.1.3"
 
 MUI.Button = require("MUI.Button")
 MUI.Panel = require("MUI.Panel")
