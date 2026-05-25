@@ -1,0 +1,331 @@
+================================================================================
+                    MUI ПРОФЕССИОНАЛЬНАЯ ЛИЦЕНЗИЯ v1.0
+          (Официальная правовая рамка для коммерческого и личного использования)
+================================================================================
+
+================================================================================
+                              РУССКАЯ ВЕРСИЯ
+================================================================================
+
+Авторское право (c) 2025, MrArtem (Mister UI)
+Все права защищены.
+
+Настоящее Лицензионное соглашение на программное обеспечение (далее — 
+"Соглашение") является юридическим договором между вами (физическим или 
+юридическим лицом, далее — "Лицензиат") и MrArtem ("Лицензиар"). 
+Устанавливая, копируя или иным образом используя программную библиотеку MUI 
+("Программное обеспечение"), Лицензиат соглашается соблюдать условия 
+настоящего Соглашения. Если Лицензиат не согласен, запрещается устанавливать 
+или использовать Программное обеспечение.
+
+================================================================================
+РАЗДЕЛ 1: ПРЕДОСТАВЛЕНИЕ ЛИЦЕНЗИИ (Разрешённое использование)
+================================================================================
+
+1.1. Лицензиар предоставляет Лицензиату неисключительную, непередаваемую, 
+     всемирную, безвозмездную (роялти-фри) лицензию на:
+
+     a) Использование, интеграцию и встраивание Программного обеспечения 
+        в личные или коммерческие проекты, включая веб-приложения, мобильные 
+        приложения, игры и настольное программное обеспечение.
+
+     b) Модификацию, рефакторинг, адаптацию или создание производных работ 
+        на основе Программного обеспечения для внутренних нужд Лицензиата 
+        или для интеграции в собственные проекты Лицензиата.
+
+     c) Распространение Программного обеспечения исключительно как 
+        неотъемлемой части скомпилированного или интерпретируемого 
+        приложения Лицензиата, при условии что Программное обеспечение 
+        не может быть разумным образом извлечено, отделено или использовано 
+        как самостоятельная библиотека третьими лицами.
+
+1.2. Никакие лицензионные отчисления или сборы не подлежат уплате за 
+     любое использование, разрешённое в соответствии с настоящим Разделом 1.
+
+================================================================================
+РАЗДЕЛ 2: ЗАПРЕЩЁННЫЕ ДЕЙСТВИЯ (Прямые ограничения)
+================================================================================
+
+2.1. ЗАПРЕТ НА САМОСТОЯТЕЛЬНУЮ ПЕРЕПРОДАЖУ.
+     Лицензиат НЕ ИМЕЕТ ПРАВА сублицензировать, продавать, перепродавать, 
+     сдавать в аренду, распространять или иным образом коммерчески 
+     эксплуатировать Программное обеспечение как самостоятельный продукт, 
+     библиотеку, фреймворк, набор ассетов, коллекцию фрагментов кода или 
+     в любой иной форме, где Программное обеспечение составляет основную 
+     или единственную ценность сделки. Нарушение данного пункта является 
+     существенным нарушением настоящего Соглашения.
+
+2.2. УДАЛЕНИЕ АТРИБУЦИИ И АВТОРСКИХ ПРАВ.
+     Лицензиат НЕ ИМЕЕТ ПРАВА удалять, скрывать, изменять или заменять 
+     любые уведомления об авторских правах, указания авторства (включая, 
+     но не ограничиваясь, "MrArtem" или "Mister UI"), отметки о версии 
+     или заголовки лицензии, содержащиеся в исходном коде или скомпилированных 
+     двоичных файлах Программного обеспечения. Любое такое удаление 
+     автоматически прекращает действие настоящей лицензии с немедленным 
+     эффектом.
+
+2.3. ЛОЖНОЕ АВТОРСТВО.
+     Лицензиат НЕ ИМЕЕТ ПРАВА заявлять, подразумевать или представлять, 
+     что Программное обеспечение было создано независимо Лицензиатом или 
+     любым третьим лицом, кроме MrArtem. Производные работы должны содержать 
+     чёткое уведомление: "Основано на MUI (Mister UI) от MrArtem".
+
+2.4. ЗЛОНАМЕРЕННОЕ ИСПОЛЬЗОВАНИЕ.
+     Лицензиат НЕ ИМЕЕТ ПРАВА использовать Программное обеспечение в любом 
+     вредоносном программном обеспечении, включая, но не ограничиваясь: 
+     компьютерные вирусы, троянские кони, черви, программы-вымогатели, 
+     шпионское ПО, рекламное ПО, нарушающее применимое законодательство, 
+     ботнеты, криптовалютные майнеры, устанавливаемые без явного согласия 
+     пользователя, хакерские инструменты, наборы эксплойтов или любое ПО, 
+     предназначенное для повреждения, нарушения работы или получения 
+     несанкционированного доступа к компьютерным системам.
+
+2.5. ОБМАННОЕ РАСПРОСТРАНЕНИЕ.
+     Лицензиат НЕ ИМЕЕТ ПРАВА распространять Программное обеспечение вместе 
+     с обманным маркетингом, поддельными "премиум" обозначениями или под 
+     любым названием, которое предполагает, что Программное обеспечение 
+     является платным коммерческим продуктом, требующим покупки у кого-либо, 
+     кроме Лицензиара (учитывая, что Лицензиар распространяет Программное 
+     обеспечение бесплатно). Любое лицо или организация, предлагающие 
+     Программное обеспечение для продажи, занимаются мошенничеством.
+
+================================================================================
+РАЗДЕЛ 3: ОТВЕТСТВЕННОСТЬ И ОГРАНИЧЕНИЕ ГАРАНТИЙ
+================================================================================
+
+3.1. ОТСУТСТВИЕ ГАРАНТИЙ.
+     Программное обеспечение предоставляется "КАК ЕСТЬ" ("AS IS"). Лицензиар 
+     не даёт никаких явных или подразумеваемых гарантий, включая, но не 
+     ограничиваясь, подразумеваемые гарантии товарной пригодности, 
+     пригодности для конкретной цели и отсутствия нарушений прав третьих лиц.
+
+3.2. ОТСУТСТВИЕ ОТВЕТСТВЕННОСТИ.
+     Ни при каких обстоятельствах Лицензиар не несёт ответственности перед 
+     Лицензиатом или любыми третьими лицами за любой прямой, косвенный, 
+     случайный, специальный, штрафной или последующий ущерб (включая, но 
+     не ограничиваясь, ущерб от потери прибыли, данных, прерывания бизнеса 
+     или замены товаров), возникающий в результате использования или 
+     невозможности использования Программного обеспечения, даже если 
+     Лицензиар был уведомлён о возможности такого ущерба.
+
+================================================================================
+РАЗДЕЛ 4: ПРИНУДИТЕЛЬНЫЕ МЕРЫ (Протокол пресечения нарушений)
+================================================================================
+
+4.1. АВТОМАТИЧЕСКОЕ ПРЕКРАЩЕНИЕ.
+     Настоящая лицензия прекращается автоматически без предварительного 
+     уведомления, если Лицензиат нарушает любое из положений Раздела 2. 
+     В случае прекращения лицензии Лицензиат обязан немедленно прекратить 
+     использование, удалить и уничтожить все копии Программного обеспечения.
+
+4.2. ПУБЛИЧНОЕ РАСКРЫТИЕ НАРУШЕНИЙ.
+     Лицензиар оставляет за собой право опубликовать факт нарушения 
+     настоящей лицензии, включая раскрытие наименования Лицензиата-нарушителя 
+     или его идентификационных данных, в публичных репозиториях, чатах 
+     разработчиков, маркетплейсах и социальных сетях с меткой #MUI_Scam 
+     в целях предупреждения сообщества разработчиков.
+
+4.3. DMCA И ЖАЛОБЫ ПЛАТФОРМАМ.
+     Лицензиар имеет право подать жалобу в соответствии с DMCA (Digital 
+     Millennium Copyright Act) или аналогичными законами об авторском праве 
+     в отношении хостинг-провайдеров, маркетплейсов, хабов GitHub, 
+     магазинов приложений и платёжных систем, через которые нарушитель 
+     распространяет или продаёт Программное обеспечение с нарушением 
+     условий Раздела 2.
+
+4.4. ВЗЫСКАНИЕ ДОХОДА.
+     В случае коммерческой перепродажи Программного обеспечения в нарушение 
+     пункта 2.1 Лицензиар оставляет за собой право потребовать от нарушителя 
+     выплаты 100% (ста процентов) дохода, полученного от такой незаконной 
+     продажи, в качестве компенсации за нарушение авторских прав.
+
+================================================================================
+РАЗДЕЛ 5: ПОРЯДОК СООБЩЕНИЯ О НАРУШЕНИЯХ
+================================================================================
+
+Любое лицо, ставшее свидетелем распространения или продажи MUI с нарушением 
+условий Раздела 2 (в частности, пунктов 2.1, 2.2, 2.3, 2.5), обязано 
+сообщить об этом Лицензиару следующими способами:
+
+     - Электронная почта: artali3010@gmail.com
+     - GitHub Issues: https://github.com/MrArtem5/MUI
+
+Лицензиар обязуется рассмотреть каждое сообщение в разумный срок и принять 
+соразмерные меры в соответствии с Разделом 4.
+
+================================================================================
+РАЗДЕЛ 6: ЗАКЛЮЧИТЕЛЬНЫЕ ПОЛОЖЕНИЯ
+================================================================================
+
+6.1. Настоящее Соглашение регулируется законодательством страны 
+     местонахождения Лицензиара (MrArtem) без учёта коллизионных норм.
+
+6.2. Если какое-либо положение настоящего Соглашения признано 
+     недействительным или неисполнимым, остальные положения остаются 
+     в полной силе.
+
+6.3. Настоящее Соглашение представляет собой полное соглашение между 
+     сторонами в отношении Программного обеспечения и заменяет все 
+     предыдущие или одновременные договорённости.
+
+================================================================================
+(c) 2025 MrArtem (Mister UI). Все права защищены.
+Версия лицензии: 1.0 (Двуязычная: русский/английский)
+
+================================================================================
+                              ENGLISH VERSION
+================================================================================
+
+Copyright (c) 2025, MrArtem (Mister UI)
+All rights reserved.
+
+This Software License Agreement (the "Agreement") is a legal contract between 
+you (either an individual or a legal entity, hereinafter "Licensee") and 
+MrArtem ("Licensor"). By installing, copying, or otherwise using the MUI 
+software library ("Software"), the Licensee agrees to be bound by the terms 
+of this Agreement. If the Licensee does not agree, do not install or use 
+the Software.
+
+================================================================================
+SECTION 1: GRANT OF LICENSE (Permitted Uses)
+================================================================================
+
+1.1. Licensor hereby grants Licensee a non-exclusive, non-transferable, 
+     worldwide, royalty-free license to:
+
+     a) Use, integrate, and embed the Software into personal or commercial 
+        projects, including web applications, mobile applications, games, 
+        and desktop software.
+
+     b) Modify, refactor, adapt, or create derivative works of the Software 
+        for Licensee's internal needs or for integration into Licensee's 
+        own projects.
+
+     c) Distribute the Software solely as an inseparable component of 
+        Licensee's compiled or interpreted application, provided that the 
+        Software cannot be reasonably extracted, unbundled, or used as a 
+        standalone library by third parties.
+
+1.2. No royalties or license fees are due for any use permitted under 
+     this Section 1.
+
+================================================================================
+SECTION 2: PROHIBITED CONDUCT (Express Restrictions)
+================================================================================
+
+2.1. STANDALONE RESALE PROHIBITION.
+     Licensee shall NOT sublicense, sell, resell, rent, lease, redistribute, 
+     or otherwise commercially exploit the Software as a standalone product, 
+     library, framework, asset pack, code snippet collection, or any other 
+     form where the Software constitutes the primary or sole value of the 
+     transaction. Violation of this clause constitutes material breach 
+     of this Agreement.
+
+2.2. ATTRIBUTION AND COPYRIGHT REMOVAL.
+     Licensee shall NOT remove, obscure, modify, or alter any copyright 
+     notices, author attributions (including but not limited to "MrArtem" 
+     or "Mister UI"), version markings, or license headers contained within 
+     the Software's source code or compiled binaries. Any such removal 
+     automatically terminates this license with immediate effect.
+
+2.3. FALSE AUTHORSHIP.
+     Licensee shall NOT claim, imply, or represent that the Software was 
+     independently created by Licensee or any third party other than 
+     MrArtem. Derivative works must include a clear notice stating: 
+     "Based on MUI (Mister UI) by MrArtem."
+
+2.4. MALICIOUS USE.
+     Licensee shall NOT use the Software in or for any malicious software, 
+     including but not limited to: computer viruses, trojan horses, worms, 
+     ransomware, spyware, adware that violates applicable laws, botnets, 
+     cryptocurrency miners installed without explicit user consent, 
+     hacking tools, exploit kits, or any software designed to damage, 
+     disrupt, or gain unauthorized access to computer systems.
+
+2.5. DECEPTIVE DISTRIBUTION.
+     Licensee shall NOT bundle or distribute the Software with any deceptive 
+     marketing, fake "premium" branding, or under any name that suggests 
+     the Software is a paid commercial product requiring purchase from 
+     anyone other than the Licensor (given that the Licensor distributes 
+     the Software free of charge). Any person or entity offering the 
+     Software for sale is engaged in fraud.
+
+================================================================================
+SECTION 3: DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+================================================================================
+
+3.1. NO WARRANTIES.
+     The Software is provided "AS IS". Licensor makes no express or implied 
+     warranties, including but not limited to the implied warranties of 
+     merchantability, fitness for a particular purpose, and non-infringement.
+
+3.2. NO LIABILITY.
+     In no event shall Licensor be liable to Licensee or any third party 
+     for any direct, indirect, incidental, special, punitive, or consequential 
+     damages (including but not limited to damages for loss of profits, data, 
+     business interruption, or replacement goods) arising out of the use 
+     or inability to use the Software, even if Licensor has been advised 
+     of the possibility of such damages.
+
+================================================================================
+SECTION 4: ENFORCEMENT MEASURES (Violation Protocol)
+================================================================================
+
+4.1. AUTOMATIC TERMINATION.
+     This license terminates automatically without prior notice if Licensee 
+     violates any provision of Section 2. Upon termination, Licensee must 
+     immediately cease use, delete, and destroy all copies of the Software.
+
+4.2. PUBLIC DISCLOSURE OF VIOLATIONS.
+     Licensor reserves the right to publicly disclose violations of this 
+     license, including revealing the name or identifying information of 
+     the violating Licensee, in public repositories, developer chats, 
+     marketplaces, and social media using the hashtag #MUI_Scam for the 
+     purpose of warning the developer community.
+
+4.3. DMCA AND PLATFORM COMPLAINTS.
+     Licensor has the right to file a DMCA (Digital Millennium Copyright Act) 
+     complaint or complaint under similar copyright laws against hosting 
+     providers, marketplaces, GitHub hubs, app stores, and payment systems 
+     through which the violator distributes or sells the Software in 
+     violation of Section 2.
+
+4.4. DISGORGEMENT OF REVENUE.
+     In the event of commercial resale of the Software in violation of 
+     clause 2.1, Licensor reserves the right to demand from the violator 
+     payment of 100% (one hundred percent) of the revenue derived from 
+     such illegal sale as compensation for copyright infringement.
+
+================================================================================
+SECTION 5: REPORTING VIOLATIONS
+================================================================================
+
+Any person witnessing distribution or sale of MUI in violation of Section 2 
+(particularly clauses 2.1, 2.2, 2.3, 2.5) shall report such violation to 
+the Licensor via the following channels:
+
+     - Email: artali3010@gmail.com
+     - GitHub Issues: https://github.com/MrArtem5/MUI
+
+Licensor undertakes to review each report within a reasonable time and take 
+proportionate measures in accordance with Section 4.
+
+================================================================================
+SECTION 6: GENERAL PROVISIONS
+================================================================================
+
+6.1. This Agreement shall be governed by the laws of the country where 
+     Licensor (MrArtem) is domiciled, without regard to conflict of law 
+     provisions.
+
+6.2. If any provision of this Agreement is held to be invalid or unenforceable, 
+     the remaining provisions shall remain in full force and effect.
+
+6.3. This Agreement constitutes the entire agreement between the parties 
+     regarding the Software and supersedes all prior or contemporaneous 
+     agreements.
+
+================================================================================
+(c) 2025 MrArtem (Mister UI). All rights reserved.
+License version: 1.0 (Bilingual: Russian/English)
+================================================================================
