@@ -7,14 +7,13 @@ MUI._VERSION = "0.1.3"
 MUI.Button = require("MUI.Button")
 MUI.Panel = require("MUI.Panel")
 MUI.CheckBox = require("MUI.CheckBox")
+MUI.Sprite = require("MUI.Sprite")
+MUI.ParticlesEmitter = require("MUI.ParticlesEmitter")
+MUI.ParallaxPanel = require("MUI.ParallaxPanel")
+MUI.ImageButton = require("MUI.ImageButton")
+MUI.CircularProgress = require("MUI.CircularProgress")
 
 return MUI
-
-
-
-
-
-
 
 
 
